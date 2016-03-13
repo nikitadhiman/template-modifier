@@ -1,0 +1,4 @@
+This ec=xtension would help in migration of HTML templates to Joomla!
+The basic idea behind this is to easily convert a HTML template to a Joomla template. The user just need to give the HTML code of the template and the extension would attach the necessary code 
+to the template making it joomla compatible.
+
