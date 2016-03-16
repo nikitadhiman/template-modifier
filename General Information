@@ -4,3 +4,10 @@ to the template making it joomla compatible.
 The user then need to upload the template if he wishes to use the modified template for the website or he can use the template at the later stage.
 The same template can be modified within the HTML code itself and modified at any time.
 
+
+Steps to use template modifier 1.0
+1. Write HTML code for your template.
+2. Upload the complete files (HTML and CSS) to the template modifier.
+3. When the conversion is completed, download the modified template and install in template manager.
+4. Whenever changes have to be made, update the new files with those changes.
+
