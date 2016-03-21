@@ -1,4 +1,4 @@
-This ec=xtension would help in migration of HTML templates to Joomla!
+This extension would help in migration of HTML templates to Joomla!
 The basic idea behind this is to easily convert a HTML template to a Joomla template. The user just need to give the HTML code of the template and the extension would attach the necessary code 
 to the template making it joomla compatible.
 The user then need to upload the template if he wishes to use the modified template for the website or he can use the template at the later stage.
@@ -11,3 +11,4 @@ Steps to use template modifier 1.0
 3. When the conversion is completed, download the modified template and install in template manager.
 4. Whenever changes have to be made, update the new files with those changes.
 
+The files will be tested locally and uploaded here.
